@@ -5,5 +5,10 @@ This app shows the registration and login process with SQLite database in a simp
 <br> 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/57602386/233804806-59b9918d-c2e5-4efc-93d1-cce8b79fbdc7.gif" width=400>
+  
+  https://user-images.githubusercontent.com/57602386/233805403-44177101-73c8-4e8d-9b86-842cfbf95916.mp4
+  
 <div/>
+  
+ 
+
